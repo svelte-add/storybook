@@ -6,7 +6,7 @@ export const usageMarkdown = ["WIP"];
 
 /** @type {import("../..").Gatekeep} */
 export const gatekeep = async () => {
-	return { able: true };
+	return { advice: "WIP" };
 };
 
 /** @typedef {{}} Options */
